@@ -1,0 +1,68 @@
+baseURL = 'https://m-r-maxwell.github.io/'
+languageCode = 'en-us'
+title = 'Matt Maxwell'
+theme = 'hugo-coder'
+defaultContentLanguage = "en"
+paginate = 6
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[params]
+author = "Matt Maxwell"
+description = "Matt Maxwell's Portfolio"
+keywords = "Software engineer, full stack, web developer, portfolio, resume"
+info = ["Software Engineer", "Full Stack Developer", "Explorer"]
+avatar = "img/avatar.jpg"
+dateFormat = "January 2, 2006"
+since = 2018
+# commit = ""
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = true
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
+
+[taxonomies]
+    tags = "tags"
+    category = "categories"
+    series = "series"
+    author = "authors"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/m-r-maxwell"
+[[params.social]]
+ name = "LinkedIn"
+ icon = "fa-brands fa-linkedin fa-2x"
+ weight = 2
+ url = "https://www.linkedin.com/in/matthew-maxwell-4776424b/"
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[languages.en.menu.main]]
+  name = "About"
+  weight = 2
+  url = "/about"
+[[languages.en.menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "/projects"

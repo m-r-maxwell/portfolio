@@ -14,7 +14,8 @@ author = "Matt Maxwell"
 description = "Matt Maxwell's Portfolio"
 keywords = "Software engineer, full stack, web developer, portfolio, resume"
 info = ["Software Engineer", "Full Stack Developer", "Explorer"]
-avatar = "/assets/avatar.jpg"
+avatar = "/avatar.jpg"
+favIcon = "/terminal.svg"
 dateFormat = "January 2, 2006"
 since = 2018
 # commit = ""
@@ -25,7 +26,7 @@ hideColorSchemeToggle = true
 maxSeeAlsoItems = 5
 # Custom CSS
 customCSS = []
-# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root})
 customSCSS = []
 
 # Custom JS

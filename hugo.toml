@@ -1,4 +1,4 @@
-baseURL = 'https://m-r-maxwell.github.io/'
+baseURL = 'https://m-r-maxwell.github.io/portfolio'
 languageCode = 'en-us'
 title = 'Matt Maxwell'
 theme = 'hugo-coder'

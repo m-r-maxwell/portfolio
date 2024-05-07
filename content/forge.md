@@ -39,4 +39,4 @@ Use "forge [command] --help" for more information about a command.
 
 Now let's see it in action!
 
-![Forge](/img/forge.mp4)
+![Forge](../img/forge.mp4)

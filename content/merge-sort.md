@@ -4,8 +4,7 @@ date = 2024-05-02T16:22:46-04:00
 draft = false
 +++
 
-Here is a sample of making a merge sort algorithm in python, it was fun to make an implementation of this.
-
+Here is a sample of making a merge sort algorithm in Python. It was fun to make an implementation of this.
 
 ```python
 def merge_sort(array):

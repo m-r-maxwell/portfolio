@@ -4,13 +4,10 @@ date = 2024-02-28T17:51:03-05:00
 draft = false
 +++
 
-Over the past year or so I have been learning Irish Gaelic since Irish is a part of my ancestery and there is a bit of a problem with Irish becoming a dead language.
-Like most people I have been learning it via Duolingo, however I took it a step further after I found a website that is an Irish to English dictionary with pronounciations.
+Irish is a part of my ancestry and there is concern that Irish may become a dead language.  So, over the past year or so, I have been learning Irish Gaelic. I started learning it using Duolingo, a common language tool.  However, I took it a step further after I found a website that is an Irish to English dictionary with pronunciations and built an Irish Word of the Day tool. 
+After not touching Web Scraping for over 4 years with Python, I decided to look at Web Scraping in Go for this project. I also set this as a CronJob, so as long as my home server is up and running, I get an email with a new word every day at midnight. 
+It’s listed on my GitHub, however here is the code.
 
-Having been using go for awhile I deciced to look at webscrapping in go after not touching webscrapping for over 4 years with python.
-This project is listed on my github however here is the code as well.
-
-I also set this as a cronjob so that as long as my home server is up and running at midnight every night I will get an email. 
 
 ```go
 package main

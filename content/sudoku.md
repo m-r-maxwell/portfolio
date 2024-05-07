@@ -4,7 +4,7 @@ date = 2024-05-02T16:24:15-04:00
 draft = false
 +++
 
-Here is a sample of a python script that uses OOP (classes) to solve sudoku puzzles and prints out the solved puzzle. It takes in an array [numbers] to represent the board with 0s being empty spaces.
+Here is a sample of a Python script that uses OOP (classes) to solve sudoku puzzles and prints out the solved puzzle. It takes in an array [numbers] to represent the board with 0s being empty spaces.
 
 ```python
 class Board:

@@ -5,9 +5,8 @@ draft = false
 +++
 
 ## Introduction
-Hi there, my name is Matt and I have been a software engineer since 2018.  
-I have worked as a freelancer, a small business developer, and a start up engineer. I enjoy the problem solving aspect of software as well as the constant learning.
-Along with software I have really grown to love cooking and have been experimenting with some of my own recipes since it helps me feel more creative which is a core part of problem solving. They might show up here sometime as well.
+Hi there, my name is Matt and I have been a software engineer since 2018.
+I have worked as a freelancer, a small business developer, and a startup engineer. I enjoy the problem-solving aspect of software as well as the constant learning. Along with software I have really grown to love cooking and have been experimenting with some of my own recipes since it helps me feel more creative which is a core part of problem solving. They might show up here sometime as well.
 
 ### Things I am currently learning
 - Go Cobra

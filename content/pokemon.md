@@ -14,13 +14,13 @@ This was a fun one! This was created with a few different technologies.
 4. Python
 5. Docker
 
-Starting off, this was made primarly to explore the new net/http standard library package since it sort eliminates the need for something I'm more familiar with such as [gorilla/mux](https://github.com/gorilla/mux). Next was python since I could find json data of pokemon related things, but no one wants to write a bunch of repetative sql insert statements, so I leveraged python to do that for me and adjusted as needed.
+Starting off, this was made primarily to explore the new net/http standard library package since it sort of eliminates the need for something I’m more familiar with such as [gorilla/mux](https://github.com/gorilla/mux). Next was Python since I could find JSON data of Pokemon-related things. But no one wants to write a bunch of repetitive SQL insert statements, so I leveraged python to do that for me and adjusted as needed.
 
-Next came setting up the golang api using microservices based on 3 different areas, pokemon, items, and moves. This is not a complete list but a good starting point to show off some various routes and functions.
+Next came setting up the Golang API using microservices based on 3 different areas: Pokemon, items, and moves. This is not a complete list but a good starting point to show off some various routes and functions.
 
-After that was setting up a local db to interact with so I could store the data that I used python to generate for me. I decided that the next step was to set up a dockerfile to build and run the database for anyone that wants to try running it.
+After that I set up a local db to interact with, so I could store the data that I used Python to generate for me. I decided that the next step was to set up a Dockerfile to build and run the database for anyone that wants to try running it.
 
-Whenever I come back to this I want to work on making a docker compose to run the api, the swagger server, and the db all at the same time.
+Whenever I come back to this, I want to work on making a Docker Compose to run the API, the Swagger server, and the db all at the same time.
 
 Lastly there is also swagger included but admittedly needs some work since it was a very quick test project.  
 
@@ -37,4 +37,4 @@ func (ps *PokemonService) RegisterHandlers(mux *http.ServeMux) {
 }
 ```
 
-This new native router is quite powerful being able to identify the action and was very easy to work with coming from gorilla/mux.
+This new native router is quite powerful, able to identify the action and is very easy to work with coming from gorilla/mux.

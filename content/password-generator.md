@@ -5,12 +5,9 @@ draft = false
 +++
 
 The basics of this was a friend has a website and wanted to have a page that would generate a strong password.
-
-**Nothing is stored anywhere** the page allows you to click "GET IT" button to add it to your clipboard and use, storing however passwords are saved per user.
-
+**Nothing is stored anywhere**. The page allows you to click “GET IT” button to add it to your clipboard and use, storing however passwords are saved per user.
 This also allows the user to select the length of the password via a slider or + - buttons and the ability to add or remove character sets as desired.
-
-Also if the browser does not support mordern browswer apis that is also handled.
+Also, the generator can handle if the browser does not support modern browser APIs.
 
 [Live Example](http://www.worldwired.net/p)
 
@@ -203,9 +200,7 @@ Also if the browser does not support mordern browswer apis that is also handled.
    }
    ```
 
-Later, I wanted to make it a bit better and I re-did it in python.
-This implementation includes regex. Ideally this would be updated in the future to include passing in arguments for length and numbers for different character sets.
-
+Later, I wanted to make it a bit better and I re-did it in Python. This implementation includes regex. Ideally, this would be updated in the future to include passing in arguments for length and numbers for different character sets.
 
 ```python
 import re

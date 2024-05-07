@@ -5,10 +5,9 @@ draft = false
 +++
 
 This was a fun one, it was essentially a report generator. 
-I can’t link to since it was a project for a business. However, I can talk about the process itself.
+I can’t link to since it was a project for a business. 
 
-#### However!
-
+## However!
 I can talk about the process itself.
 
 1. Take in 3 different CSV files

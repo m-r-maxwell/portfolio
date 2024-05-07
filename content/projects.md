@@ -12,6 +12,6 @@ Here's a list of some of the  personal projects I've worked on.
 - [Space Invaders](../space-invaders)
 - [Pokemon API](../pokemon) - My own testing of the update net/http package in go 1.22
 - [Password Generators](../password-generator)
-- [CSV Reports](../cvs-reports)
+- [CSV Reports](../csv-reports)
 - [Merge Sort](../merge-sort)
 - [Sudoku Solver](../sudoku)

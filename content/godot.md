@@ -17,4 +17,4 @@ The github repo is [Tiny Arena](https://github.com/m-r-maxwell/tinyarena). If yo
 
 Here is a quick demo of the game in action...
 
-![Demo Video](/img/tinyarena.mp4)
+![Demo Video](./img/tinyarena.mp4)

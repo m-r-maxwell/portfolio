@@ -23,7 +23,6 @@ Available Commands:
   blank       Generate a blank Go project with an optional [name]
   cli         Generate a cli project with an optional [name]
   completion  Generate the autocompletion script for the specified shell
-  git         Generate a git project
   help        Help about any command
   models      Generate a models folder and file
   rest        Generate a RESTful API project with optional [name]

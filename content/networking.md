@@ -51,7 +51,6 @@ func Ports() {
 			fmt.Printf("Port %d is open\n", port)
 			conn.Close()
 		}
-		defer conn.Close()
 	}
 }
 ```

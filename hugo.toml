@@ -20,6 +20,7 @@ description = "Matt Maxwell's Portfolio"
 keywords = "Software engineer, full stack, web developer, portfolio, resume"
 info = ["Software Engineer", "Full Stack Developer", "Explorer"]
 avatarURL = "img/me.png"
+favicon = "img/favicon.ico"
 dateFormat = "January 2, 2006"
 since = 2018
 # commit = ""

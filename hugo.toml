@@ -9,6 +9,11 @@ paginate = 6
 codeFences = true
 noClasses = false
 
+# [services]
+# [services.disqus]
+# Enable Disqus comments
+# shortname = "yourdiscussshortname"
+
 [params]
 author = "Matt Maxwell"
 description = "Matt Maxwell's Portfolio"

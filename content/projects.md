@@ -15,3 +15,5 @@ Here's a list of some of the  personal projects I've worked on.
 - [CSV Reports](../csv-reports)
 - [Merge Sort](../merge-sort)
 - [Sudoku Solver](../sudoku)
+- [Network Utils](../networking)
+- [Fitness](../fitness)

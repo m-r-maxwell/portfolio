@@ -27,5 +27,5 @@ slice = append(slice, 4)
 You can still achieve the same functionality of stacks and other complex data structs in go.
 Let's explore implementing a stack.
 
-![Stack](../img/stack.png "stack struct")
-![Main](../img/main.png "main.go implementing the above stack struc")
+![Stack](../../img/stack.png "stack struct")
+![Main](../../img/main.png "main.go implementing the above stack struc")

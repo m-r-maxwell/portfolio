@@ -31,7 +31,6 @@ Provided namespaces:
 | PID | Process ID Management |
 | CGROUP | Create control groups|
 | UTS | Create host/domain names|
-<br />
 
 *Important note:
 Docker containers use every namespace but time and you cannot change time.

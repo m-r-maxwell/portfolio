@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository hosts the source code for [Your Name]'s portfolio website, built with Hugo, a static site generator.
+This repository hosts the source code for Matt Maxwell's portfolio website, built with Hugo, a static site generator.
 
 Features
 - Blog functionality for articles and updates.

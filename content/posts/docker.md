@@ -224,4 +224,6 @@ services:
 - Avoid using latest as a tag
 - Use non-root users
 
-The last part is container organization which you can learn more about [here](../kubernetes).
+### More Information
+- To learn more about docker compose please see [here](../compose).
+- To learn more about container organization please see [here](../kubernetes).

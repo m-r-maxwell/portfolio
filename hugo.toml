@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Matt Maxwell'
 theme = 'hugo-coder'
 defaultContentLanguage = "en"
-paginate = 6
+paginate = 15
 
 [markup.highlight]
 codeFences = true

@@ -80,7 +80,7 @@ This version introduces a map called computed to store previously calculated Fib
 # Benefits of Memoization
 
 Memoization can significantly improve the performance of recursive functions, especially for problems with overlapping subproblems. It reduces redundant calculations and can drastically decrease the execution time for large inputs.
-For example above I used 20 and 100 in the respective calls and the larger number took less time. If I run 100 in the non computed fibonacchi function the call takes much longer than the computer.
+For example above I used 20 and 100 in the respective calls and the larger number took less time. If I run 100 in the non computed fibonacchi function the call takes much longer than the computed version.
 
 # In Conclusion
 

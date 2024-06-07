@@ -8,7 +8,7 @@ authors = []
 tags = ["data structures"]
 categories = []
 externalLink = ""
-series = ["data structures"]
+series = ["data structures", "dev"]
 +++
 
 # Binary Search Trees: A Go Implementation

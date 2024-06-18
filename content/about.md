@@ -39,7 +39,7 @@ I have worked as a freelancer, a small business developer, and a startup enginee
 - Git
 - Docker
 - Kubernetes
-- DevOpz
+- DevOps
 - Bash
 - Agile
 - Azure

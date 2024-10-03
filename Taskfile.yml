@@ -14,7 +14,7 @@ tasks:
   publish:
     desc: Publish the site to github with github pages
     cmds:
-      - hugo
+      # - hugo
       - git add .
       - git commit -m "Publishing to gh-pages"
       - git push origin

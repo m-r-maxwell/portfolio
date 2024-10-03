@@ -27,6 +27,7 @@ Available Commands:
   models      Generate a models folder and file
   rest        Generate a RESTful API project with optional [name]
   service     Generate a service
+  python      Generate a python script with venv
 
 Flags:
   -g, --git       Initialize a git repository

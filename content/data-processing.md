@@ -30,7 +30,7 @@ Let's begin!
     - We append the returned value from the process_data inside of the data frame list
     - Finally we return a concatenated list of data frames
 
-- Finally we get to the actual processesing
+- Finally we get to the actual processing
     - We provide the path to the folder and store it as a variable
     - We set a list to the returned value of the concatenated data frame
     - We create an MList and HList that we drop duplicates

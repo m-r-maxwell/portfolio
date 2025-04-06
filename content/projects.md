@@ -17,3 +17,4 @@ Here's a list of some of the  personal projects I've worked on.
 - [Sudoku Solver](../sudoku)
 - [Network Utils](../networking)
 - [Fitness](../fitness)
+- [OSRS GE Prices](../osrs-ge-price)

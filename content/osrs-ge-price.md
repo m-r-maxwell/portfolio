@@ -1,5 +1,5 @@
 +++
-title = 'Networking'
+title = 'OSRS GE Prices'
 date = 2025-04-06T12:00:41-04:00
 draft = false
 +++

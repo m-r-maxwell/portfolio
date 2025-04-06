@@ -19,5 +19,10 @@ tasks:
       - git commit -m "Publishing to gh-pages"
       - git push origin
 
+  coder:
+    desc: Update hugo coder
+    cmds:
+      - git submodule update --remote --merge
+
 # reminder
 # hugo new [name].md creates a new page.

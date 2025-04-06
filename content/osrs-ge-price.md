@@ -1,6 +1,6 @@
 +++
 title = 'Networking'
-date = 2025-04-067T12:00:41-04:00
+date = 2025-04-06T12:00:41-04:00
 draft = false
 +++
 
